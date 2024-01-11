@@ -1,0 +1,11 @@
+baseURL = 'https://example.org/'
+theme = "hugo-book"
+defaultContentLanguage = 'zh'
+
+[languages]
+  [languages.zh]
+    languageCode = 'zh-cn'
+    contentDir = 'content/zh-cn'
+    languageName = '中文'
+    title = '自学Rust心得'
+    weight = 1
