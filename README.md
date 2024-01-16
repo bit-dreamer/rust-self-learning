@@ -1,2 +1,5 @@
-# rust-self-learning
-自学Rust心得
+# 本地构建
+```shell
+git submodule update --init
+hugo server
+```
