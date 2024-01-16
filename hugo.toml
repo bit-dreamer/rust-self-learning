@@ -1,6 +1,7 @@
 baseURL = 'https://bit-dreamer.github.io'
 theme = "hugo-book"
 defaultContentLanguage = 'zh'
+enableEmoji = true
 
 [languages]
   [languages.zh]
