@@ -14,6 +14,7 @@ weight: 101
 
 ## Rust安装
 ``` bash
+sudo apt install build-essential
 echo 'export RUSTUP_DIST_SERVER=https://mirrors.ustc.edu.cn/rust-static' >> ~/.bash_profile
 echo 'export RUSTUP_UPDATE_ROOT=https://mirrors.ustc.edu.cn/rust-static/rustup' >> ~/.bash_profile
 #需要注销用户或者重启计算机之后再执行安装脚本
