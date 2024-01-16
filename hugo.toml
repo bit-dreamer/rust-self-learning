@@ -1,4 +1,4 @@
-baseURL = 'https://bit-dreamer.github.io/rust-self-learning'
+baseURL = 'https://bit-dreamer.github.io'
 theme = "hugo-book"
 defaultContentLanguage = 'zh'
 
