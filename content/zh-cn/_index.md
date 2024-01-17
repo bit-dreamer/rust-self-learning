@@ -4,7 +4,4 @@ weight: 1
 ---
 
 # 前言
-
-## 施工进度
-* [x]搭建Github Pages环境 (Hugo)
-* [ ]第一章 快速开始
+本教程是阅读了Rust官方的[《Rust 程序设计语言》](https://doc.rust-lang.org/book/)之后的学习心得，欢迎大家共同学习和探讨。
